@@ -101,7 +101,7 @@ I also learned that small wording differences matter. A related answer is not al
 
 ## Challenge Completion
 
-![BTLO Challenge Completion](Screenshots/01-BTLO-The-Report-Completion.png)
+![BTLO Challenge Completion](01-BTLO-The-Report-Completion.png)
 
 ---
 
@@ -163,9 +163,6 @@ I am continuing to build hands-on experience through:
 ---
 
 ## Connect With Me
-
-**GitHub:**  
-https://github.com/JFrancisSOC
 
 **LinkedIn:**  
 https://www.linkedin.com/in/jfrancissoc
