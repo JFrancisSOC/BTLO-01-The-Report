@@ -46,18 +46,17 @@ I also had to make sure I verified the information in the report before submitti
 
 ---
 
-## Topics Covered
+## Key Concepts Covered
 
 - Threat Intelligence
-- Vulnerability Management
+- CVE Research
+- Ransomware Operations
+- Initial Access Techniques
 - Exchange Server Vulnerabilities
-- Ransomware Groups
-- Affiliate-Based Ransomware Activity
-- Initial Access
 - SEO Poisoning
 - Coin Miner Activity
 - Detection Opportunities
-- Defensive Security Controls
+- Defensive Security
 
 ---
 
